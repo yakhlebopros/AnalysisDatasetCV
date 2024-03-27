@@ -4,7 +4,13 @@
 
 The project involves the analysis of a resume database obtained from the job search website hh.ru. This database serves to match job seekers with suitable job vacancies and vice versa, connecting employers with suitable specialists.
 
-One of the main challenges addressed in this analysis is the presence of missing data, particularly regarding the desired salary of job seekers in their resumes.
+One of the main challenges addressed in this analysis is the presence of missing data, particularly regarding the desired salary of job seekers in their resumes and the desparity in currencies that complicates the analysis.
+
+### Access to the data
+
+[CV dataset](https://drive.google.com/file/d/1-eH5bHl2H1mh4xljY9DMBUjPAS6iDNfx/view?usp=drive_link)
+
+[Currency rates](https://drive.google.com/file/d/1Ndnmj6A876-izvUZ0wrc4lHq2ZwRisM9/view?usp=drive_link)
 
 ### Objective
 
@@ -20,10 +26,10 @@ The primary objective of this project is to transform, explore, and clean the da
 
 ### Technology Stack
 
-Python
-Pandas
-Numpy
-Plotly Express
+* Python
+* Pandas
+* Numpy
+* Plotly Express
 
 ### Conclusions
 
