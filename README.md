@@ -13,10 +13,10 @@ The primary objective of this project is to transform, explore, and clean the da
 
 ### Project stages
 
-   1. **Basic analysis of data structure:** examination of the structure of the dataset, identify the  eatures/columns present in the dataset, understand the data types of each feature and the overall structure of the dataset.
-   2. **Data transformation:** transformation of the raw data into a structured format suitable for analysis, ensure uniformity in data representation across all features.
-   3. **Exploratory data analysis:**  visual and statistical analysis to gain insights into the dataset, exploration relationships and dependencies between different features, identifying patterns, trends, and outliers within the data.
-   4. **Data cleaning:** addressing any data quality issues identified during the EDA stage, removing duplicates, outliers, and irrelevant data points, handling missing values.
+* **Basic Analysis of Data Structure:** Examination of the structure of the dataset, identifying features/columns, understanding data types of each feature, and the overall dataset structure.
+* **Data Transformation:** Transforming the raw data into a structured format suitable for analysis, ensuring uniformity in data representation across all features.
+* **Exploratory Data Analysis (EDA):** Visual and statistical analysis to gain insights into the dataset, exploring relationships and dependencies between different features, identifying patterns, trends, and outliers.
+* **Data Cleaning:** Addressing any data quality issues identified during the EDA stage, removing duplicates, outliers, and irrelevant data points, and handling missing values.
 
 ### Technology Stack
 
